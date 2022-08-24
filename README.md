@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Joanna
-My email: jt-s@o2.pl
+I am a results-oriented and motivated individual with theoretical knowledge of C#, C++, JavaScript, LINQ. 
+I also have  a sound experience in big databases.
 
  
